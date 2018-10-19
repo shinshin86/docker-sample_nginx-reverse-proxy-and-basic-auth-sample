@@ -1,6 +1,6 @@
 ## nginx-reverse-proxy-and-basic-auth-sample
 
-Reverse proxy and basic auth sample with use [nginx](https://nginx.org/en/).
+Reverse proxy and basic auth sample with use [nginx](https://nginx.org/en/).<br>
 I created it for learning.
 
 
@@ -34,7 +34,7 @@ http://ip-api.com/json
 
 Development docker image
 
-When development Using name (`dev-reverse-proxy`) with a shorter length.
+When development Using name (`dev-reverse-proxy`) with a shorter length.<br>
 This is your preference
 
 ```bash
@@ -66,5 +66,5 @@ docker exec -it rproxy-sample bash
 
 ## About nginx.conf
 
-`nginx.conf` is created from the [nginx](https://nginx.org/en/) project.
-License for this project is [here([2-clause BSD-like license](https://nginx.org/LICENSE))](https://nginx.org/LICENSE).
+`nginx.conf` is created from the [nginx](https://nginx.org/en/) project.<br>
+License for this project is [here (2-clause BSD-like license)](https://nginx.org/LICENSE).
